@@ -14,8 +14,6 @@
   [![Closed issues](https://img.shields.io/github/issues-closed/shadowcopyrz/etkg?color=darkgreen&cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/issues?q=is%3Aissue+is%3Aclosed)
   ![License](https://img.shields.io/github/license/shadowcopyrz/etkg)
 
-# ESET-KeyGen
-ESET-KeyGen - Trial-Key & Account generator for ESET Products
 
 ---
 
@@ -170,7 +168,5 @@ Delete your current ESET HOME account
 ## Documentation
    - Help improve our documentation by submitting updates or clarifications.
 
-# 💰 Donations 💰
-* PayPal - **raze.c0d3r@gmail.com**
 
 ## This project exists in its current state thanks to all the people who have contributed and to all who create issues, which we solve together!
