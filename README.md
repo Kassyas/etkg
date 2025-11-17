@@ -3,7 +3,6 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/shadowcopyrz/etkg/blob/main/img/logo_alt.png?raw=true" alt="logo"/>
     
   ![Version](https://img.shields.io/badge/version-1.5.6.2-gold)
   
@@ -16,10 +15,6 @@
 
 
 ---
-
-## ⚠️ Disclaimer ⚠️
-### Important: This tool is for educational purposes only.
-Using this tool may violate ESET's terms of service and could have legal implications.
 
 The authors and contributors are not responsible for any misuse or damage caused by this project.
 
